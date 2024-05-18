@@ -61,5 +61,7 @@ Una vez que tu pull request haya sido fusionado, puedes eliminar tu rama.
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE.md) para más detalles.
 
+---
+
 Hecho con ❤️ por Alberth Salazar. :wave: [Ponte en contacto](https://Shadelight.github.io/buratago)
 
