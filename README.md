@@ -41,9 +41,25 @@ Si has instalado git, puedes clonar el código en tu máquina, o descargar un ZI
 [Descargar el ZIP desde esta ubicación](https://github.com/Shadelight/buratago/archive/gh-pages.zip), o ejecuta el siguiente comando [git](https://git-scm.com/downloads) para clonar los archivos en tu máquina:
 ```bash
 git clone https://github.com/Shadelight/buratago
+```
+- Una vez que los archivos estén en tu máquina, abre la carpeta buratago en Visual Studio Code.
+- Con los archivos abiertos en Visual Studio Code, presiona el botón Go Live en la parte inferior de la ventana para lanzar los archivos con Live Server.
+- Cambia la imagen de perfil y los textos en el archivo index.html.
+- Cambia los colores y las fuentes en el archivo style.css.
+- Para cambiar el fondo, ve al archivo style.css en la línea 17, descomenta el fragmento de código y cambia la URL a la imagen que desees.
 
+## 🤔 Cómo contribuir
+
+- Haz un fork de este repositorio;
+- Crea una rama con tu funcionalidad: `git checkout -b mi-funcionalidad`;
+- Confirma tus cambios: `git commit -m "feat: mi nueva funcionalidad"`;
+- Sube tu rama: `git push origin mi-funcionalidad`.
+
+Una vez que tu pull request haya sido fusionado, puedes eliminar tu rama.
 
 ## 📝 Licencia
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-Hecho con ❤️ por Alberth S. :wave: Ponte en contacto
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE.md) para más detalles.
+
+Hecho con ❤️ por Alberth Salazar. :wave: [Ponte en contacto](https://Shadelight.github.io/buratago)
+
