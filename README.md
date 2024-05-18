@@ -41,3 +41,9 @@ Si has instalado git, puedes clonar el código en tu máquina, o descargar un ZI
 [Descargar el ZIP desde esta ubicación](https://github.com/Shadelight/buratago/archive/gh-pages.zip), o ejecuta el siguiente comando [git](https://git-scm.com/downloads) para clonar los archivos en tu máquina:
 ```bash
 git clone https://github.com/Shadelight/buratago
+
+
+## 📝 Licencia
+Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+
+Hecho con ❤️ por Alberth S. :wave: Ponte en contacto
